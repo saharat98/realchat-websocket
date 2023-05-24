@@ -44,7 +44,7 @@
 }
 
 .Messages-message > .avatar {
-  height: 30px;
+  height: 35px;
   width: 35px;
   border-radius: 50%;
   display: inline-block;
@@ -54,7 +54,7 @@
 .Message-content > .username {
   display: block;
   color:gray;
-  font-size: 14px;
+  font-size: 16px;
   padding-bottom: 4px;
 }
 
